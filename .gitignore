@@ -1,0 +1,17 @@
+_Store
+*.swp
+log/*.log
+ccf_data/
+asian_face_data/
+diff_class_data/
+finetune_data/
+finetune_mtcnn_data/
+pretrained_model/
+raw_data/
+test_data/
+test_mask_data/
+test_mask_datapics/
+test_mtcnn_data/
+BEST_checkpoint.tar
+get_finetune_data/models/*
+MaskInsightface/PRNet_Mask/Data/net-data/256_256_resfcn256_weight.data-00000-of-00001
